@@ -1,5 +1,5 @@
 # worldclim1-cr
-Variables bioclimáticas de [WorldClim](http://www.worldclim.org) (versión 1) recortadas para Costa Rica.
+Variables bioclimáticas de [WorldClim](http://www.worldclim.org) ([versión 1](http://www.worldclim.org/version1)) recortadas para Costa Rica.
 
 Las capas se recortaron con el comando [gdalwarp](https://www.gdal.org/gdalwarp.html) de [GDAL](https://gdal.org/):
 ```
